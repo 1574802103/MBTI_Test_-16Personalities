@@ -1,0 +1,70 @@
+2026-01-29 08:31:26,350 - root - INFO - Application started
+2026-01-29 08:31:26,350 - root - INFO - AppData directory: C:\Users\winer\Desktop\新建文件夹\AppData
+2026-01-29 08:31:26,351 - root - INFO - Starting server on port 51710
+2026-01-29 08:31:26,352 - root - INFO - Opening browser at http://127.0.0.1:51710
+2026-01-29 08:31:26,395 - root - INFO - Server serving directory: C:\Users\winer\AppData\Local\Temp\_MEI89042\dist
+2026-01-29 08:31:26,395 - root - INFO - Server started at http://127.0.0.1:51710
+2026-01-29 08:32:33,598 - root - INFO - 127.0.0.1 - - [29/Jan/2026 08:32:33] "GET / HTTP/1.1" 200 -
+
+2026-01-29 08:32:33,653 - root - INFO - 127.0.0.1 - - [29/Jan/2026 08:32:33] "GET /assets/index-DF9UE1yp.js HTTP/1.1" 200 -
+
+2026-01-29 08:32:33,656 - root - INFO - 127.0.0.1 - - [29/Jan/2026 08:32:33] "GET /assets/index-DsoCeex7.css HTTP/1.1" 200 -
+
+2026-01-29 08:32:35,742 - root - INFO - 127.0.0.1 - - [29/Jan/2026 08:32:35] "GET /favicon.svg HTTP/1.1" 200 -
+
+2026-01-29 08:36:06,168 - root - INFO - Application started
+2026-01-29 08:36:06,168 - root - INFO - AppData directory: C:\Users\winer\Desktop\新建文件夹\AppData
+2026-01-29 08:36:06,169 - root - INFO - Starting server on port 51940
+2026-01-29 08:36:06,170 - root - INFO - Opening browser at http://127.0.0.1:51940
+2026-01-29 08:36:06,217 - root - INFO - Server serving directory: C:\Users\winer\AppData\Local\Temp\_MEI173442\dist
+2026-01-29 08:36:06,217 - root - INFO - Server started at http://127.0.0.1:51940
+2026-01-29 08:37:33,569 - root - INFO - 127.0.0.1 - - [29/Jan/2026 08:37:33] "GET / HTTP/1.1" 200 -
+
+2026-01-29 08:37:33,608 - root - INFO - 127.0.0.1 - - [29/Jan/2026 08:37:33] "GET /assets/index-DF9UE1yp.js HTTP/1.1" 200 -
+
+2026-01-29 08:37:33,610 - root - INFO - 127.0.0.1 - - [29/Jan/2026 08:37:33] "GET /assets/index-DsoCeex7.css HTTP/1.1" 200 -
+
+2026-01-29 08:37:35,402 - root - INFO - 127.0.0.1 - - [29/Jan/2026 08:37:35] "GET /favicon.svg HTTP/1.1" 200 -
+
+2026-01-29 09:48:31,912 - root - INFO - Application started
+2026-01-29 09:48:31,926 - root - INFO - AppData directory: D:\张峻铭\2018-3-1（交接）\90\mbti软件1\AppData
+2026-01-29 09:48:31,928 - root - INFO - Starting server on port 61423
+2026-01-29 09:48:31,928 - root - INFO - Opening browser at http://127.0.0.1:61423
+2026-01-29 09:48:32,071 - root - INFO - Server serving directory: C:\Users\winer\AppData\Local\Temp\_MEI174762\dist
+2026-01-29 09:48:32,071 - root - INFO - Server started at http://127.0.0.1:61423
+2026-01-29 09:49:33,578 - root - INFO - 127.0.0.1 - - [29/Jan/2026 09:49:33] "GET / HTTP/1.1" 200 -
+
+2026-01-29 09:49:33,611 - root - INFO - 127.0.0.1 - - [29/Jan/2026 09:49:33] "GET /assets/index-DF9UE1yp.js HTTP/1.1" 200 -
+
+2026-01-29 09:49:33,614 - root - INFO - 127.0.0.1 - - [29/Jan/2026 09:49:33] "GET /assets/index-DsoCeex7.css HTTP/1.1" 200 -
+
+2026-01-29 09:49:36,051 - root - INFO - 127.0.0.1 - - [29/Jan/2026 09:49:36] "GET /favicon.svg HTTP/1.1" 200 -
+
+2026-01-29 12:45:23,775 - root - INFO - Application started
+2026-01-29 12:45:23,775 - root - INFO - AppData directory: D:\张峻铭\2018-3-1（交接）\90\mbti软件1\AppData
+2026-01-29 12:45:23,776 - root - INFO - Starting server on port 63227
+2026-01-29 12:45:23,776 - root - INFO - Opening browser at http://127.0.0.1:63227
+2026-01-29 12:45:23,869 - root - INFO - Server serving directory: C:\Users\winer\AppData\Local\Temp\_MEI158322\dist
+2026-01-29 12:45:23,869 - root - INFO - Server started at http://127.0.0.1:63227
+2026-01-29 12:46:33,581 - root - INFO - 127.0.0.1 - - [29/Jan/2026 12:46:33] "GET / HTTP/1.1" 200 -
+
+2026-01-29 12:46:33,672 - root - INFO - 127.0.0.1 - - [29/Jan/2026 12:46:33] "GET /assets/index-DF9UE1yp.js HTTP/1.1" 200 -
+
+2026-01-29 12:46:33,674 - root - INFO - 127.0.0.1 - - [29/Jan/2026 12:46:33] "GET /assets/index-DsoCeex7.css HTTP/1.1" 200 -
+
+2026-01-29 12:46:35,654 - root - INFO - 127.0.0.1 - - [29/Jan/2026 12:46:35] "GET /favicon.svg HTTP/1.1" 200 -
+
+2026-01-29 12:54:24,381 - root - INFO - Application started
+2026-01-29 12:54:24,381 - root - INFO - AppData directory: D:\张峻铭\2018-3-1（交接）\90\mbti\mbti_app_exe封装\AppData
+2026-01-29 12:54:24,400 - root - INFO - Starting server on port 63668
+2026-01-29 12:54:24,401 - root - INFO - Opening browser at http://127.0.0.1:63668
+2026-01-29 12:54:24,470 - root - INFO - Server serving directory: C:\Users\winer\AppData\Local\Temp\_MEI48362\dist
+2026-01-29 12:54:24,470 - root - INFO - Server started at http://127.0.0.1:63668
+2026-01-29 12:55:27,068 - root - INFO - 127.0.0.1 - - [29/Jan/2026 12:55:27] "GET / HTTP/1.1" 200 -
+
+2026-01-29 12:55:27,094 - root - INFO - 127.0.0.1 - - [29/Jan/2026 12:55:27] "GET /assets/index-DF9UE1yp.js HTTP/1.1" 200 -
+
+2026-01-29 12:55:27,102 - root - INFO - 127.0.0.1 - - [29/Jan/2026 12:55:27] "GET /assets/index-DsoCeex7.css HTTP/1.1" 200 -
+
+2026-01-29 12:55:29,200 - root - INFO - 127.0.0.1 - - [29/Jan/2026 12:55:29] "GET /favicon.svg HTTP/1.1" 200 -
+
